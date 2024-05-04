@@ -1,0 +1,18 @@
+{
+  "lang": "ru",
+  "dir": "ltr",
+  "name": "Разработка сайтов и seo-продвижение",
+  "description": "Разработка сайтов и профессиональная помощь в росте трафика и видимости сайта. UX/UI дизайн,  SMM, верстка, брендинг.",
+  "short_name": "WMA.BY",
+  "start_url": "https://www.wma.by",
+  "scope": "https://www.wma.by",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "screenshots": [{
+        "src": "https://optim.tildacdn.biz/tild3635-6162-4238-b563-373166613361/-/resize/385x/-/format/webp/--.png",
+        "sizes": "640x480",
+        "type": "image/png"
+        }],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
